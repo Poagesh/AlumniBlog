@@ -48,11 +48,8 @@
 
 Contributions are welcome! Please open issues or submit pull requests for enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, please reach out to poagesh59@gmail.com.
 
